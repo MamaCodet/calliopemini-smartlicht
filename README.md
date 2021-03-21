@@ -14,6 +14,6 @@ Um dieses Repository in MakeCode zu bearbeiten.
 Dieses Bild zeigt den Blockcode vom letzten Commit im Master an.
 Die Aktualisierung dieses Bildes kann einige Minuten dauern.
 
-![Eine gerenderte Ansicht der Blöcke](https://github.com/mamacodet/calliopemini-smartlicht/raw/master/calliopemini-smartlicht.png)
+![Eine gerenderte Ansicht der Blöcke](https://github.com/mamacodet/calliopemini-smartlicht/raw/master/.github/makecode/blocks.png)
 
 ### Viel Spaß! 🙂
