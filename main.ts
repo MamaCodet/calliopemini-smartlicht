@@ -1,6 +1,5 @@
 let led2 = 0
 basic.forever(function () {
-    basic.showNumber(input.lightLevel())
     if (input.lightLevel() > 130) {
         basic.turnRgbLedOff()
     } else {
