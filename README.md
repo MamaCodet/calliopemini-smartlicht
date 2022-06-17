@@ -9,6 +9,8 @@ Um dieses Repository in MakeCode zu bearbeiten.
 * klicke auf **Importieren** und dann auf **Importiere URL**
 * füge **https://github.com/mamacodet/calliopemini-smartlicht** ein und klicke auf Importieren
 
+Ein Video, wie die Taschenlampe funktioniert, findet ihr auf Youtube: [https://www.youtube.com/watch?v=VkmmCgR-lhs](https://www.youtube.com/watch?v=VkmmCgR-lhs)
+
 ## Blockvorschau
 
 Dieses Bild zeigt den Blockcode vom letzten Commit im Master an.
